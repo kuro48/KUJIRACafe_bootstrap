@@ -55,6 +55,7 @@
 
 html{
   font-family: sans-serif;
+  font-size: 16px;
 }
 
 html *{
@@ -115,14 +116,13 @@ a:active{
   text-decoration: none;
 }
 
-.footer{
-  background-image: url(../images/footer-bg.png);
-  background-repeat: no-repeat;
-  // margin-top: 30px;
-  // padding: 80px 15px 20px 15px;
-  font-size: 12px;
-  color: #3f5170;
-}
+// .footer{
+//   background-image: url(../images/footer-bg.png);
+//   background-repeat: no-repeat;
+//   margin-top: 30px;
+//   padding: 80px 15px 20px 15px;
+//   color: #3f5170;
+// }
 
 // .keyvisual{
 //   margin: 15px 0 0 0;
@@ -137,26 +137,26 @@ a:active{
   padding: 0 1em 1em 0;
 }
 
-.clear{
-  clear: both;
-}
+// .clear{
+//   clear: both;
+// }
 
-.info{
-  border-collapse: collapse;
-}
+// .info{
+//   border-collapse: collapse;
+// }
 
-.info th, .info td{
-  padding: 8px;
-  border: 1px solid #bec2c7;
-  text-align: left;
-}
+// .info th, .info td{
+//   padding: 8px;
+//   border: 1px solid #bec2c7;
+//   text-align: left;
+// }
 
-.info th{
-  background-color: #dde2ea;
-  width: 90px;
-  color: #3f5170;
-  vertical-align: top;
-}
+// .info th{
+//   background-color: #dde2ea;
+//   width: 90px;
+//   color: #3f5170;
+//   vertical-align: top;
+// }
 
 .menu-item{
   display: flex;
@@ -234,9 +234,9 @@ input[name="submit"]{
     width: 100%;
   }
 
-  .shop-photo{
-    padding-right: 0;
-  }
+  // .shop-photo{
+  //   padding-right: 0;
+  // }
 
   select{
     width: 100%;
